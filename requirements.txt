@@ -3,3 +3,4 @@ pylint
 black
 
 # required for app functionality
+Flask
